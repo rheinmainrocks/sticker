@@ -19,7 +19,7 @@ The `#` and the `!` have been adapted to better fit the font's italic slant.
 
 ## Copyright
 
-© 2015 [Markus Tacker](https://cto.hiv)
+© 2015 [Markus Tacker](https://coderbyheart.com)
 
 ## License
 
